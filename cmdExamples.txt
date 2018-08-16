@@ -1,0 +1,2 @@
+./udperf_sink 6000 ./udperf_sink_0-0.log
+./udperf_sender 1337 0 127.0.0.1 6000 1000 9 6001 ./udperf_sender_0-0.log
